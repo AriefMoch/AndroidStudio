@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learning ViewPager</string>
+    <string name="txt_hello">Hello World!</string>
+    <string name="txt_sleep">Lets Sleep!</string>
+    <string name="txt_eat">Lets Eat!</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_reg">Register</string>
+    <string name="txt_forgot">Forgot Password</string>
+    <string name="txt_journey">NO! I want to journey</string>
+
+</resources>
